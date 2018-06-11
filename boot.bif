@@ -1,0 +1,5 @@
+image : {
+        [bootloader]./fsbl/fsbl.elf
+	./hardware/bitstream.bit
+        u-boot.elf
+}
